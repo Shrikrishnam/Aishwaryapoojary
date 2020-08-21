@@ -1,0 +1,31 @@
+.sidebar a 
+{
+    display: block;
+    text-decoration: none;
+    color: #000;
+    padding: 25px;
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    height: 80px;
+    font-size: large;
+}
+
+.sidebar a:hover 
+{
+    
+    color: blue;
+    
+}
+
+nav
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-size: large;
+}
+
+img
+{
+    opacity: 100%;  
+}

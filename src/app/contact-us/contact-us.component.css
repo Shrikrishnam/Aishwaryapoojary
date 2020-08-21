@@ -1,0 +1,19 @@
+label
+{
+    display: inline-block;
+    padding: 10px,10px,10px,0;
+    font-weight: bold;    
+}
+
+
+input:hover
+{
+    border-color:skyblue;
+    color: #000;    
+}
+
+
+button
+{
+    font-weight: bold;    
+}
